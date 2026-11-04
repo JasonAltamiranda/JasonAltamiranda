@@ -1,4 +1,4 @@
-# Hola, soy Jason 👋
+# Hola, soy Jason 
 
 Desarrollador full stack en formación. Me gusta construir aplicaciones completas, desde la base de datos y la API hasta la interfaz, y trabajar en equipo con Git.
 
